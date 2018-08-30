@@ -1,2 +1,2 @@
 # AnalysisScore
-高考成绩分析系统
+高考助手
