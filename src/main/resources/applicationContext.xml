@@ -18,7 +18,7 @@
             <props>
                 <prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect</prop>
                 <prop key="hibernate.show_sql">true</prop>
-                <prop key="hibernate.connection.url">jdbc:mysql://118.25.105.231:3306/CEE_Helper</prop>
+                <prop key="hibernate.connection.url">jdbc:mysql://localhost/CEE_Helper</prop>
                 <prop key="hibernate.connection.driver_class">com.mysql.jdbc.Driver</prop>
             </props>
         </property>
